@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lovepreet Singh
 - 👀 I’m enthusiast to solve coding problems.
-- 🌱 I’m currently learning DSA...
+- 🌱 I’m currently working as android developer.
 - 💞️ I’m looking to collaborate on development...
 - 📫 How to reach me :- lsingh_mca21@thapar.edu
