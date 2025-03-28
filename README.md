@@ -8,7 +8,7 @@
 ---
 
 ### 💡 **About Me**
-Experienced Software Develope proficient in developing mobile-ready web apps using React Native, React JS Skilled in
+Experienced Software Develope proficient in developing mobile and web apps using React Native, React JS Skilled in
 UI/UX design, unit testing, memory management , and REST API integration. Impacting 100K+ user reach on
 Google Play Store and App Store. Passionate about enhancing app functionality and performance, with hands-on experience in
 cross-platform development using React Native, React JS and Node JS.
